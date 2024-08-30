@@ -1,3 +1,3 @@
-module github.com/han5eeb/interpreter-in-go
+module github.com/han5eeb/hamadaz-lang
 
 go 1.22.0

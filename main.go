@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/user"
 
-	"github.com/han5eeb/interpreter-in-go/repl"
+	"github.com/han5eeb/hamadaz-lang/repl"
 )
 
 func main() {
