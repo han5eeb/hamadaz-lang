@@ -3,11 +3,11 @@ package lexer
 import (
 	"testing"
 
-	"interpreter/token"
+	"github.com/han5eeb/interpreter-in-go/token"
 )
 
 func TestNextToken(t *testing.T) {
-	input := 	`let five = 5;
+	input := `let five = 5;
 				let ten = 10;
 				let add = fn(x, y) {
 				x + y;
